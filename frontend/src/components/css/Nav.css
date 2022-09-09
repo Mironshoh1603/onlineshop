@@ -1,0 +1,214 @@
+/* NavBar */
+header{
+    box-shadow:  0px 5px 5px -3px rgba(50, 50, 93, 0.25);   
+}
+
+/* searchbox */
+
+.search-btn{
+    color: tomato; 
+}
+.search-form{
+    border: 1px solid tomato;
+    border-radius: 3%;
+}
+
+/* Product */
+
+.home-card{
+    border: 1px solid green;
+    height: 30rem;
+}
+
+.card-btn:hover{
+    background-color: grey;
+}
+
+.footer{
+    border-top-width:5px;  
+    border-top-style:groove;
+}
+
+/* product screen */
+
+.cart-button:hover{
+    color: black;
+    background-color: tomato;
+}
+
+.review-section{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.show-review{
+   background-color: grey;
+   color:white;
+   padding: 10px;
+   
+}
+
+.accordion-header{
+    background-color: grey;
+}
+
+/* cart Screen */
+
+.trash-icon{
+    color: red;
+}
+
+.cart-header{
+    background-color: grey;
+    color:white;
+}
+
+.btn-cart:hover{
+     background-color:tomato;
+}
+
+/* login screen */
+
+.signin-btn:hover{
+    background-color: tomato;
+}
+
+/* payment screen */
+
+.payment-header{
+    background-color: grey;
+    color: white;
+}
+
+.payment-container{
+    margin-top: 100px;
+}
+
+/* place order screen */
+
+.shipping-section{
+    margin-top: 50px;
+}
+
+.shipping{
+    background-color: green;
+    padding: 10px;
+    
+}
+
+.payment{
+    background-color: rgb(60, 22, 197);
+    padding: 10px;
+}
+
+.item-section{
+    background-color: grey;
+
+}
+
+.item-header{
+    background-color: tomato;
+    padding: 10px;
+}
+
+.summary-header{
+    background-color: grey;
+    color: white;
+}
+
+/* order screen */
+
+.order-id{
+    background-color: rgb(19, 231, 125);
+    padding: 10px;
+}
+
+/* contact screen */
+
+.contact-header{
+    text-align: center;
+    padding: 50px;
+}
+
+.contact-end{
+    background-color:#2c365d;
+    margin: 20px;
+    padding: 10px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 80px;
+}
+
+.contact-end h6{
+   
+    color: white;
+ 
+}
+
+/* Profile screen */
+
+.profile-section{
+    background-color: #272343;
+    color: white;
+    border-radius: 10px;
+}
+
+.profile-section h2{
+    color: white;
+}
+
+/* .order-section th{
+    background-color:#b68973;
+    color: white;
+} */
+
+/* user list screen */
+
+/* .userlist th{
+    background-color: #b68973 ;
+    color: white;
+} */
+
+/* user edit screen */
+
+.editscreen{
+    background-color: #272343;
+    border: 5px solid sienna;
+    color: white;
+}
+
+.back-btn{
+    border: 1px solid green;
+    background-color: greenyellow;
+    margin: 10px;
+}
+
+.back-btn:hover{
+    background-color: tomato;
+}
+
+.editscreen h1{
+    color: white;
+}
+
+/* product list screen */
+
+.btn-add button{
+    background-color: yellowgreen;
+}
+
+.btn-add button:hover{
+    background-color: tomato;
+}
+
+.product-list{
+    background-color: #272343;
+    color: white;
+    border-radius: 10px;
+}
+
+
+.user-edit a{
+    color: white;
+}

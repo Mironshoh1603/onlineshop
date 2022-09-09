@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### About Project
 
 <b>Project Name</b>: sam's accurium (Online Shopping Cart)
@@ -149,4 +150,6 @@ npm run dev
 ```
 
 
+=======
+>>>>>>> 784ff393f5ab3d56d7c430e6fc447955dd1423f8
 # onlineshop
