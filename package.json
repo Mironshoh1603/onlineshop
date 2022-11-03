@@ -21,7 +21,8 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alaminsahed/onlineShop/issues"
+    "url": "https://github.com/alaminsahed/onlineShop/issues",
+
   },
   "homepage": "https://github.com/alaminsahed/onlineShop#readme",
   "dependencies": {
