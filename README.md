@@ -54,9 +54,7 @@ User Interface </br>
 
 
 
-<b>Project Login Information</b> </br>
-User: Email: sahed@gmail.com  Password: 123456</br>
-Admin: Email: admin@gmail.com  Password: 123456</br>
+
 
 <b>Project Screenshots: </b> </br>
 
